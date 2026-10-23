@@ -3,7 +3,7 @@ from fer import FER
 
 # ================= CAMERA =================
 cap = cv2.VideoCapture(0)
-
+sdsd
 if not cap.isOpened():
     print("❌ Camera not found")
     exit()
